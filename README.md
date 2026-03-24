@@ -4,9 +4,7 @@ A fun and interactive project that lets you control a physical robotic hand in r
 
 Hold your hand up to the camera and the robotic hand mirrors your movements like opening and closing fingers, opposing the thumb, and even rotating the wrist. 
 
-<video>
-  <source src="Media/Robotic_Hand_demo_vid.mp4" type="video/mp4">
-</video>
+![Robotic Hand Image](Media/Robotic_Hand_img.jpg)
 
 ## Project Overview
 MediaPipe detects your hand landmarks, a Python script interprets the gestures, and sends simple serial commands to an Arduino that drives the servos in the robotic hand.
@@ -45,4 +43,6 @@ MediaPipe detects your hand landmarks, a Python script interprets the gestures, 
     python Robot_Hand_Mediapipe.py
     ```
 
-![Robotic Hand Image](Media/Robotic_Hand_img.jpg)
+<video>
+  <source src="Media/Robotic_Hand_demo_vid.mp4" type="video/mp4">
+</video>

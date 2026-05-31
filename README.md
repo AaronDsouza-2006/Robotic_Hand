@@ -46,3 +46,6 @@ MediaPipe detects your hand landmarks, a Python script interprets the gestures, 
 <video>
   <source src="Media/Robotic_Hand_demo_vid.mp4" type="video/mp4">
 </video>
+
+## test
+hiii
